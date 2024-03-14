@@ -1,0 +1,55 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+node_modules
+/.pnp
+.pnp.js
+
+# testing
+/coverage
+
+# production
+build
+
+# misc
+.DS_Store
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+backend/public/images/image-1709336063671.jpg
+backend/public/images/image-1709336063675.jpg
+backend/public/images/image-1709336063676.JPG
+backend/public/images/image-1709530564943.jpg
+backend/public/images/image-1709530564945.jpg
+backend/public/images/image-1709530564953.JPG
+backend/public/images/image-1710281016351.jpg
+backend/public/images/image-1710281016352.jpg
+backend/public/images/image-1710281016353.jpg
+backend/public/images/image-1710281016355.jpg
+backend/public/images/image-1710281016356.jpg
+backend/public/images/image-1710285454091.jpg
+backend/public/images/image-1710285454105.jpg
+backend/public/images/image-1710285454106.jpg
+backend/public/images/image-1710285454107.jpg
+backend/public/images/image-1710285454108.jpg
+backend/public/images/image-1710285454112.jpg
+backend/public/images/image-1710285577805.jpg
+backend/public/images/image-1710285577827.jpg
+backend/public/images/image-1710285577828.jpg
+backend/public/images/image-1710285577830.jpg
+backend/public/images/image-1710285577831.jpg
+backend/public/images/image-1710285663973.jpg
+backend/public/images/image-1710285663974.jpg
+backend/public/images/image-1710285863576.jpg
+backend/public/images/image-1710285863577.jpg
+backend/public/images/image-1710286259602.jpg
+backend/public/images/image-1710286259603.jpg
+backend/public/images/image-1710286259604.jpg
+backend/public/images/image-1710286327782.jpg
+backend/public/images/image-1710286327783.jpg
+backend/public/images/image1.jpg
